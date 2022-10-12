@@ -9,7 +9,7 @@ zone_pivot_groups: kql-flavors
 ---
 # search operator
 
-The `search` operator provides a multi-table/multi-column search experience.
+Full-text search of a text pattern in multiple tables and/or columns.
 
 ::: zone pivot="azuredataexplorer"
 
